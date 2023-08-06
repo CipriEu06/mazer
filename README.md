@@ -11,7 +11,7 @@ in file "maze.txt":
 
 - maze is bordered on the GUI.
 
-after running "mazer.exe", file "sol.txt" will contain an n*m grid of symbols:
+after running "mazer.exe", file "sol.txt" will contain an N x M grid of symbols:
 	- 'o' for empty space
 	- '-' for wall
 	- '*' for tiles that are part of the shortest path.
